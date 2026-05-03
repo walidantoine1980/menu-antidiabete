@@ -3603,4 +3603,2707 @@ export const mealExamples = {
       "instructions": "Faites infuser le thé avec les épices dans très peu d'eau chaude. Faites chauffer et mousser le lait de soja, puis versez-le sur l'infusion."
     }
   ]
+,
+  "kenwood": [
+    {
+        "title": "Jus Détox Courgette, Chou Kale & Kiwi",
+        "time": "7 min",
+        "description": "Doux, aqueux et IG nul. Super-aliment bourré d'antioxydants. Riche en vitamine C et fibres douces. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "2 belles feuilles de chou Kale",
+            "1 kiwi",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Blettes & Pamplemousse",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Riche en fibres douces. Baisse le taux d'insuline et de sucre dans le sang. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 feuille de blette",
+            "1/2 pamplemousse",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Persil & Pomme Verte",
+        "time": "6 min",
+        "description": "Hydratant et très faible en sucre. Aide à la détoxification des reins. IG bas, apporte la juste dose de douceur acidulée. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 petit bouquet de persil",
+            "1 pomme Granny Smith",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Épinards & Fraises",
+        "time": "8 min",
+        "description": "Hydratant et très faible en sucre. Riche en fer et magnésium. Riches en antioxydants, IG très bas. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 grosse poignée d'épinards frais",
+            "Une poignée de fraises",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Chou Kale & Fraises",
+        "time": "7 min",
+        "description": "Base très douce et riche en eau. Super-aliment bourré d'antioxydants. Riches en antioxydants, IG très bas. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "2 belles feuilles de chou Kale",
+            "Une poignée de fraises",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Cresson & Citron",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Saveur poivrée et détoxifiant puissant. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 poignée de cresson",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Cresson & Pamplemousse",
+        "time": "8 min",
+        "description": "Hydratant et très faible en sucre. Saveur poivrée et détoxifiant puissant. Baisse le taux d'insuline et de sucre dans le sang. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 poignée de cresson",
+            "1/2 pamplemousse",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Épinards & Citron",
+        "time": "7 min",
+        "description": "Base très douce et riche en eau. Riche en fer et magnésium. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 grosse poignée d'épinards frais",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Épinards & Fraises",
+        "time": "7 min",
+        "description": "Base très douce et riche en eau. Riche en fer et magnésium. Riches en antioxydants, IG très bas. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 grosse poignée d'épinards frais",
+            "Une poignée de fraises",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Blettes & Pomme Verte",
+        "time": "6 min",
+        "description": "Doux, aqueux et IG nul. Riche en fibres douces. IG bas, apporte la juste dose de douceur acidulée. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 feuille de blette",
+            "1 pomme Granny Smith",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Cresson & Kiwi",
+        "time": "7 min",
+        "description": "Base très douce et riche en eau. Saveur poivrée et détoxifiant puissant. Riche en vitamine C et fibres douces. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 poignée de cresson",
+            "1 kiwi",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Chou Kale & Pomme Verte",
+        "time": "7 min",
+        "description": "Hydratant et très faible en sucre. Super-aliment bourré d'antioxydants. IG bas, apporte la juste dose de douceur acidulée. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "2 belles feuilles de chou Kale",
+            "1 pomme Granny Smith",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Persil & Fraises",
+        "time": "6 min",
+        "description": "Doux, aqueux et IG nul. Aide à la détoxification des reins. Riches en antioxydants, IG très bas. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 petit bouquet de persil",
+            "Une poignée de fraises",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Cresson & Citron",
+        "time": "7 min",
+        "description": "Doux, aqueux et IG nul. Saveur poivrée et détoxifiant puissant. Alcalinisant et antioxydant majeur. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 poignée de cresson",
+            "Le jus d'un demi-citron",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Épinards & Fraises",
+        "time": "6 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fer et magnésium. Riches en antioxydants, IG très bas. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 grosse poignée d'épinards frais",
+            "Une poignée de fraises",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Persil & Fraises",
+        "time": "7 min",
+        "description": "Hydratant et très faible en sucre. Aide à la détoxification des reins. Riches en antioxydants, IG très bas. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 petit bouquet de persil",
+            "Une poignée de fraises",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Épinards & Kiwi",
+        "time": "7 min",
+        "description": "Doux, aqueux et IG nul. Riche en fer et magnésium. Riche en vitamine C et fibres douces. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 grosse poignée d'épinards frais",
+            "1 kiwi",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Cresson & Fraises",
+        "time": "5 min",
+        "description": "Hydratant et très faible en sucre. Saveur poivrée et détoxifiant puissant. Riches en antioxydants, IG très bas. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 poignée de cresson",
+            "Une poignée de fraises",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Épinards & Citron",
+        "time": "6 min",
+        "description": "Hydratant et très faible en sucre. Riche en fer et magnésium. Alcalinisant et antioxydant majeur. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 grosse poignée d'épinards frais",
+            "Le jus d'un demi-citron",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Blettes & Fraises",
+        "time": "8 min",
+        "description": "Naturellement isotonique. Riche en fibres douces. Riches en antioxydants, IG très bas. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 feuille de blette",
+            "Une poignée de fraises",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Épinards & Pamplemousse",
+        "time": "6 min",
+        "description": "Naturellement isotonique. Riche en fer et magnésium. Baisse le taux d'insuline et de sucre dans le sang. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 grosse poignée d'épinards frais",
+            "1/2 pamplemousse",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Cresson & Pomme Verte",
+        "time": "6 min",
+        "description": "Hydratant et très faible en sucre. Saveur poivrée et détoxifiant puissant. IG bas, apporte la juste dose de douceur acidulée. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 poignée de cresson",
+            "1 pomme Granny Smith",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Blettes & Citron",
+        "time": "5 min",
+        "description": "Doux, aqueux et IG nul. Riche en fibres douces. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 feuille de blette",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Blettes & Citron",
+        "time": "8 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fibres douces. Alcalinisant et antioxydant majeur. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 feuille de blette",
+            "Le jus d'un demi-citron",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Cresson & Pomme Verte",
+        "time": "6 min",
+        "description": "Naturellement isotonique. Saveur poivrée et détoxifiant puissant. IG bas, apporte la juste dose de douceur acidulée. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 poignée de cresson",
+            "1 pomme Granny Smith",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Chou Kale & Pamplemousse",
+        "time": "6 min",
+        "description": "Hydratant et très faible en sucre. Super-aliment bourré d'antioxydants. Baisse le taux d'insuline et de sucre dans le sang. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "2 belles feuilles de chou Kale",
+            "1/2 pamplemousse",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Persil & Pamplemousse",
+        "time": "5 min",
+        "description": "Base très douce et riche en eau. Aide à la détoxification des reins. Baisse le taux d'insuline et de sucre dans le sang. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 petit bouquet de persil",
+            "1/2 pamplemousse",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Persil & Kiwi",
+        "time": "8 min",
+        "description": "Doux, aqueux et IG nul. Aide à la détoxification des reins. Riche en vitamine C et fibres douces. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 petit bouquet de persil",
+            "1 kiwi",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Épinards & Pomme Verte",
+        "time": "6 min",
+        "description": "Doux, aqueux et IG nul. Riche en fer et magnésium. IG bas, apporte la juste dose de douceur acidulée. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 grosse poignée d'épinards frais",
+            "1 pomme Granny Smith",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Épinards & Pomme Verte",
+        "time": "6 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fer et magnésium. IG bas, apporte la juste dose de douceur acidulée. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 grosse poignée d'épinards frais",
+            "1 pomme Granny Smith",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Blettes & Kiwi",
+        "time": "8 min",
+        "description": "Hydratant et très faible en sucre. Riche en fibres douces. Riche en vitamine C et fibres douces. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 feuille de blette",
+            "1 kiwi",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Blettes & Fraises",
+        "time": "7 min",
+        "description": "Hydratant et très faible en sucre. Riche en fibres douces. Riches en antioxydants, IG très bas. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 feuille de blette",
+            "Une poignée de fraises",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Blettes & Pamplemousse",
+        "time": "5 min",
+        "description": "Hydratant et très faible en sucre. Riche en fibres douces. Baisse le taux d'insuline et de sucre dans le sang. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 feuille de blette",
+            "1/2 pamplemousse",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Cresson & Fraises",
+        "time": "5 min",
+        "description": "Base très douce et riche en eau. Saveur poivrée et détoxifiant puissant. Riches en antioxydants, IG très bas. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 poignée de cresson",
+            "Une poignée de fraises",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Blettes & Kiwi",
+        "time": "6 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fibres douces. Riche en vitamine C et fibres douces. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 feuille de blette",
+            "1 kiwi",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Cresson & Pomme Verte",
+        "time": "7 min",
+        "description": "Diurétique naturel et riche en minéraux. Saveur poivrée et détoxifiant puissant. IG bas, apporte la juste dose de douceur acidulée. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 poignée de cresson",
+            "1 pomme Granny Smith",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Chou Kale & Pomme Verte",
+        "time": "5 min",
+        "description": "Naturellement isotonique. Super-aliment bourré d'antioxydants. IG bas, apporte la juste dose de douceur acidulée. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "2 belles feuilles de chou Kale",
+            "1 pomme Granny Smith",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Chou Kale & Pamplemousse",
+        "time": "8 min",
+        "description": "Naturellement isotonique. Super-aliment bourré d'antioxydants. Baisse le taux d'insuline et de sucre dans le sang. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "2 belles feuilles de chou Kale",
+            "1/2 pamplemousse",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Blettes & Fraises",
+        "time": "6 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fibres douces. Riches en antioxydants, IG très bas. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 feuille de blette",
+            "Une poignée de fraises",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Persil & Citron",
+        "time": "5 min",
+        "description": "Hydratant et très faible en sucre. Aide à la détoxification des reins. Alcalinisant et antioxydant majeur. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 petit bouquet de persil",
+            "Le jus d'un demi-citron",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Blettes & Fraises",
+        "time": "8 min",
+        "description": "Base très douce et riche en eau. Riche en fibres douces. Riches en antioxydants, IG très bas. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 feuille de blette",
+            "Une poignée de fraises",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Épinards & Citron",
+        "time": "5 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fer et magnésium. Alcalinisant et antioxydant majeur. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 grosse poignée d'épinards frais",
+            "Le jus d'un demi-citron",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Cresson & Kiwi",
+        "time": "8 min",
+        "description": "Naturellement isotonique. Saveur poivrée et détoxifiant puissant. Riche en vitamine C et fibres douces. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 poignée de cresson",
+            "1 kiwi",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Blettes & Fraises",
+        "time": "8 min",
+        "description": "Doux, aqueux et IG nul. Riche en fibres douces. Riches en antioxydants, IG très bas. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 feuille de blette",
+            "Une poignée de fraises",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Cresson & Fraises",
+        "time": "8 min",
+        "description": "Diurétique naturel et riche en minéraux. Saveur poivrée et détoxifiant puissant. Riches en antioxydants, IG très bas. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 poignée de cresson",
+            "Une poignée de fraises",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Cresson & Pamplemousse",
+        "time": "7 min",
+        "description": "Diurétique naturel et riche en minéraux. Saveur poivrée et détoxifiant puissant. Baisse le taux d'insuline et de sucre dans le sang. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 poignée de cresson",
+            "1/2 pamplemousse",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Persil & Pamplemousse",
+        "time": "7 min",
+        "description": "Doux, aqueux et IG nul. Aide à la détoxification des reins. Baisse le taux d'insuline et de sucre dans le sang. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 petit bouquet de persil",
+            "1/2 pamplemousse",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Persil & Pamplemousse",
+        "time": "7 min",
+        "description": "Naturellement isotonique. Aide à la détoxification des reins. Baisse le taux d'insuline et de sucre dans le sang. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 petit bouquet de persil",
+            "1/2 pamplemousse",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Blettes & Pamplemousse",
+        "time": "5 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fibres douces. Baisse le taux d'insuline et de sucre dans le sang. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 feuille de blette",
+            "1/2 pamplemousse",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Chou Kale & Citron",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Super-aliment bourré d'antioxydants. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "2 belles feuilles de chou Kale",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Cresson & Citron",
+        "time": "5 min",
+        "description": "Naturellement isotonique. Saveur poivrée et détoxifiant puissant. Alcalinisant et antioxydant majeur. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 poignée de cresson",
+            "Le jus d'un demi-citron",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Épinards & Pamplemousse",
+        "time": "7 min",
+        "description": "Base très douce et riche en eau. Riche en fer et magnésium. Baisse le taux d'insuline et de sucre dans le sang. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 grosse poignée d'épinards frais",
+            "1/2 pamplemousse",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Cresson & Fraises",
+        "time": "5 min",
+        "description": "Naturellement isotonique. Saveur poivrée et détoxifiant puissant. Riches en antioxydants, IG très bas. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 poignée de cresson",
+            "Une poignée de fraises",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Blettes & Citron",
+        "time": "5 min",
+        "description": "Base très douce et riche en eau. Riche en fibres douces. Alcalinisant et antioxydant majeur. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 feuille de blette",
+            "Le jus d'un demi-citron",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Épinards & Pomme Verte",
+        "time": "7 min",
+        "description": "Naturellement isotonique. Riche en fer et magnésium. IG bas, apporte la juste dose de douceur acidulée. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 grosse poignée d'épinards frais",
+            "1 pomme Granny Smith",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Cresson & Pamplemousse",
+        "time": "7 min",
+        "description": "Base très douce et riche en eau. Saveur poivrée et détoxifiant puissant. Baisse le taux d'insuline et de sucre dans le sang. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 poignée de cresson",
+            "1/2 pamplemousse",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Chou Kale & Pamplemousse",
+        "time": "8 min",
+        "description": "Base très douce et riche en eau. Super-aliment bourré d'antioxydants. Baisse le taux d'insuline et de sucre dans le sang. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "2 belles feuilles de chou Kale",
+            "1/2 pamplemousse",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Cresson & Kiwi",
+        "time": "8 min",
+        "description": "Doux, aqueux et IG nul. Saveur poivrée et détoxifiant puissant. Riche en vitamine C et fibres douces. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 poignée de cresson",
+            "1 kiwi",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Cresson & Pamplemousse",
+        "time": "7 min",
+        "description": "Naturellement isotonique. Saveur poivrée et détoxifiant puissant. Baisse le taux d'insuline et de sucre dans le sang. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 poignée de cresson",
+            "1/2 pamplemousse",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Blettes & Pomme Verte",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Riche en fibres douces. IG bas, apporte la juste dose de douceur acidulée. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 feuille de blette",
+            "1 pomme Granny Smith",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Épinards & Citron",
+        "time": "7 min",
+        "description": "Naturellement isotonique. Riche en fer et magnésium. Alcalinisant et antioxydant majeur. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 grosse poignée d'épinards frais",
+            "Le jus d'un demi-citron",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Persil & Citron",
+        "time": "8 min",
+        "description": "Diurétique naturel et riche en minéraux. Aide à la détoxification des reins. Alcalinisant et antioxydant majeur. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 petit bouquet de persil",
+            "Le jus d'un demi-citron",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Épinards & Kiwi",
+        "time": "7 min",
+        "description": "Hydratant et très faible en sucre. Riche en fer et magnésium. Riche en vitamine C et fibres douces. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 grosse poignée d'épinards frais",
+            "1 kiwi",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Persil & Kiwi",
+        "time": "8 min",
+        "description": "Naturellement isotonique. Aide à la détoxification des reins. Riche en vitamine C et fibres douces. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 petit bouquet de persil",
+            "1 kiwi",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Persil & Citron",
+        "time": "7 min",
+        "description": "Base très douce et riche en eau. Aide à la détoxification des reins. Alcalinisant et antioxydant majeur. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 petit bouquet de persil",
+            "Le jus d'un demi-citron",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Épinards & Fraises",
+        "time": "5 min",
+        "description": "Doux, aqueux et IG nul. Riche en fer et magnésium. Riches en antioxydants, IG très bas. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 grosse poignée d'épinards frais",
+            "Une poignée de fraises",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Chou Kale & Pamplemousse",
+        "time": "8 min",
+        "description": "Diurétique naturel et riche en minéraux. Super-aliment bourré d'antioxydants. Baisse le taux d'insuline et de sucre dans le sang. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "2 belles feuilles de chou Kale",
+            "1/2 pamplemousse",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Épinards & Pamplemousse",
+        "time": "6 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fer et magnésium. Baisse le taux d'insuline et de sucre dans le sang. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 grosse poignée d'épinards frais",
+            "1/2 pamplemousse",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Épinards & Pamplemousse",
+        "time": "5 min",
+        "description": "Hydratant et très faible en sucre. Riche en fer et magnésium. Baisse le taux d'insuline et de sucre dans le sang. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 grosse poignée d'épinards frais",
+            "1/2 pamplemousse",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Persil & Pomme Verte",
+        "time": "7 min",
+        "description": "Diurétique naturel et riche en minéraux. Aide à la détoxification des reins. IG bas, apporte la juste dose de douceur acidulée. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 petit bouquet de persil",
+            "1 pomme Granny Smith",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Chou Kale & Citron",
+        "time": "8 min",
+        "description": "Doux, aqueux et IG nul. Super-aliment bourré d'antioxydants. Alcalinisant et antioxydant majeur. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "2 belles feuilles de chou Kale",
+            "Le jus d'un demi-citron",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Persil & Kiwi",
+        "time": "5 min",
+        "description": "Hydratant et très faible en sucre. Aide à la détoxification des reins. Riche en vitamine C et fibres douces. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 petit bouquet de persil",
+            "1 kiwi",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Chou Kale & Kiwi",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Super-aliment bourré d'antioxydants. Riche en vitamine C et fibres douces. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "2 belles feuilles de chou Kale",
+            "1 kiwi",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Épinards & Pomme Verte",
+        "time": "8 min",
+        "description": "Hydratant et très faible en sucre. Riche en fer et magnésium. IG bas, apporte la juste dose de douceur acidulée. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 grosse poignée d'épinards frais",
+            "1 pomme Granny Smith",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Chou Kale & Kiwi",
+        "time": "6 min",
+        "description": "Hydratant et très faible en sucre. Super-aliment bourré d'antioxydants. Riche en vitamine C et fibres douces. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "2 belles feuilles de chou Kale",
+            "1 kiwi",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Persil & Pomme Verte",
+        "time": "6 min",
+        "description": "Naturellement isotonique. Aide à la détoxification des reins. IG bas, apporte la juste dose de douceur acidulée. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 petit bouquet de persil",
+            "1 pomme Granny Smith",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Blettes & Pomme Verte",
+        "time": "8 min",
+        "description": "Hydratant et très faible en sucre. Riche en fibres douces. IG bas, apporte la juste dose de douceur acidulée. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 feuille de blette",
+            "1 pomme Granny Smith",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Cresson & Pomme Verte",
+        "time": "5 min",
+        "description": "Base très douce et riche en eau. Saveur poivrée et détoxifiant puissant. IG bas, apporte la juste dose de douceur acidulée. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 poignée de cresson",
+            "1 pomme Granny Smith",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Persil & Fraises",
+        "time": "5 min",
+        "description": "Diurétique naturel et riche en minéraux. Aide à la détoxification des reins. Riches en antioxydants, IG très bas. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 petit bouquet de persil",
+            "Une poignée de fraises",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Blettes & Kiwi",
+        "time": "7 min",
+        "description": "Naturellement isotonique. Riche en fibres douces. Riche en vitamine C et fibres douces. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 feuille de blette",
+            "1 kiwi",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Chou Kale & Citron",
+        "time": "5 min",
+        "description": "Naturellement isotonique. Super-aliment bourré d'antioxydants. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "2 belles feuilles de chou Kale",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Cresson & Kiwi",
+        "time": "6 min",
+        "description": "Diurétique naturel et riche en minéraux. Saveur poivrée et détoxifiant puissant. Riche en vitamine C et fibres douces. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 poignée de cresson",
+            "1 kiwi",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Persil & Pamplemousse",
+        "time": "7 min",
+        "description": "Diurétique naturel et riche en minéraux. Aide à la détoxification des reins. Baisse le taux d'insuline et de sucre dans le sang. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 petit bouquet de persil",
+            "1/2 pamplemousse",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Épinards & Kiwi",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Riche en fer et magnésium. Riche en vitamine C et fibres douces. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 grosse poignée d'épinards frais",
+            "1 kiwi",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Blettes & Citron",
+        "time": "6 min",
+        "description": "Hydratant et très faible en sucre. Riche en fibres douces. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 feuille de blette",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Persil & Fraises",
+        "time": "6 min",
+        "description": "Naturellement isotonique. Aide à la détoxification des reins. Riches en antioxydants, IG très bas. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 petit bouquet de persil",
+            "Une poignée de fraises",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Chou Kale & Fraises",
+        "time": "7 min",
+        "description": "Hydratant et très faible en sucre. Super-aliment bourré d'antioxydants. Riches en antioxydants, IG très bas. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "2 belles feuilles de chou Kale",
+            "Une poignée de fraises",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Chou Kale & Fraises",
+        "time": "5 min",
+        "description": "Naturellement isotonique. Super-aliment bourré d'antioxydants. Riches en antioxydants, IG très bas. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "2 belles feuilles de chou Kale",
+            "Une poignée de fraises",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Cresson & Citron",
+        "time": "7 min",
+        "description": "Hydratant et très faible en sucre. Saveur poivrée et détoxifiant puissant. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 poignée de cresson",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Persil & Pomme Verte",
+        "time": "5 min",
+        "description": "Doux, aqueux et IG nul. Aide à la détoxification des reins. IG bas, apporte la juste dose de douceur acidulée. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 petit bouquet de persil",
+            "1 pomme Granny Smith",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Cresson & Fraises",
+        "time": "5 min",
+        "description": "Doux, aqueux et IG nul. Saveur poivrée et détoxifiant puissant. Riches en antioxydants, IG très bas. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 poignée de cresson",
+            "Une poignée de fraises",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Blettes & Citron",
+        "time": "7 min",
+        "description": "Naturellement isotonique. Riche en fibres douces. Alcalinisant et antioxydant majeur. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 feuille de blette",
+            "Le jus d'un demi-citron",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Chou Kale & Fraises",
+        "time": "8 min",
+        "description": "Diurétique naturel et riche en minéraux. Super-aliment bourré d'antioxydants. Riches en antioxydants, IG très bas. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "2 belles feuilles de chou Kale",
+            "Une poignée de fraises",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Persil & Kiwi",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Aide à la détoxification des reins. Riche en vitamine C et fibres douces. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 petit bouquet de persil",
+            "1 kiwi",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Chou Kale & Pomme Verte",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Super-aliment bourré d'antioxydants. IG bas, apporte la juste dose de douceur acidulée. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "2 belles feuilles de chou Kale",
+            "1 pomme Granny Smith",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Chou Kale & Kiwi",
+        "time": "7 min",
+        "description": "Naturellement isotonique. Super-aliment bourré d'antioxydants. Riche en vitamine C et fibres douces. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "2 belles feuilles de chou Kale",
+            "1 kiwi",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Cresson & Citron",
+        "time": "6 min",
+        "description": "Diurétique naturel et riche en minéraux. Saveur poivrée et détoxifiant puissant. Alcalinisant et antioxydant majeur. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 poignée de cresson",
+            "Le jus d'un demi-citron",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Persil & Fraises",
+        "time": "8 min",
+        "description": "Base très douce et riche en eau. Aide à la détoxification des reins. Riches en antioxydants, IG très bas. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 petit bouquet de persil",
+            "Une poignée de fraises",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Cresson & Pomme Verte",
+        "time": "8 min",
+        "description": "Doux, aqueux et IG nul. Saveur poivrée et détoxifiant puissant. IG bas, apporte la juste dose de douceur acidulée. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 poignée de cresson",
+            "1 pomme Granny Smith",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Épinards & Fraises",
+        "time": "5 min",
+        "description": "Naturellement isotonique. Riche en fer et magnésium. Riches en antioxydants, IG très bas. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 grosse poignée d'épinards frais",
+            "Une poignée de fraises",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Chou Kale & Pamplemousse",
+        "time": "8 min",
+        "description": "Doux, aqueux et IG nul. Super-aliment bourré d'antioxydants. Baisse le taux d'insuline et de sucre dans le sang. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "2 belles feuilles de chou Kale",
+            "1/2 pamplemousse",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Persil & Citron",
+        "time": "7 min",
+        "description": "Doux, aqueux et IG nul. Aide à la détoxification des reins. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 petit bouquet de persil",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Blettes & Kiwi",
+        "time": "5 min",
+        "description": "Base très douce et riche en eau. Riche en fibres douces. Riche en vitamine C et fibres douces. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 feuille de blette",
+            "1 kiwi",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Blettes & Pomme Verte",
+        "time": "7 min",
+        "description": "Naturellement isotonique. Riche en fibres douces. IG bas, apporte la juste dose de douceur acidulée. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 feuille de blette",
+            "1 pomme Granny Smith",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Chou Kale & Fraises",
+        "time": "8 min",
+        "description": "Doux, aqueux et IG nul. Super-aliment bourré d'antioxydants. Riches en antioxydants, IG très bas. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "2 belles feuilles de chou Kale",
+            "Une poignée de fraises",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Cresson & Kiwi",
+        "time": "8 min",
+        "description": "Hydratant et très faible en sucre. Saveur poivrée et détoxifiant puissant. Riche en vitamine C et fibres douces. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 poignée de cresson",
+            "1 kiwi",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Blettes & Kiwi",
+        "time": "8 min",
+        "description": "Doux, aqueux et IG nul. Riche en fibres douces. Riche en vitamine C et fibres douces. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 feuille de blette",
+            "1 kiwi",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Blettes & Pamplemousse",
+        "time": "8 min",
+        "description": "Naturellement isotonique. Riche en fibres douces. Baisse le taux d'insuline et de sucre dans le sang. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 feuille de blette",
+            "1/2 pamplemousse",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Persil & Pamplemousse",
+        "time": "6 min",
+        "description": "Hydratant et très faible en sucre. Aide à la détoxification des reins. Baisse le taux d'insuline et de sucre dans le sang. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 petit bouquet de persil",
+            "1/2 pamplemousse",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Épinards & Pamplemousse",
+        "time": "5 min",
+        "description": "Doux, aqueux et IG nul. Riche en fer et magnésium. Baisse le taux d'insuline et de sucre dans le sang. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 grosse poignée d'épinards frais",
+            "1/2 pamplemousse",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Persil & Citron",
+        "time": "5 min",
+        "description": "Naturellement isotonique. Aide à la détoxification des reins. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 petit bouquet de persil",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Cresson & Pamplemousse",
+        "time": "5 min",
+        "description": "Doux, aqueux et IG nul. Saveur poivrée et détoxifiant puissant. Baisse le taux d'insuline et de sucre dans le sang. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 poignée de cresson",
+            "1/2 pamplemousse",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Blettes & Pomme Verte",
+        "time": "7 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fibres douces. IG bas, apporte la juste dose de douceur acidulée. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 feuille de blette",
+            "1 pomme Granny Smith",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Blettes & Pamplemousse",
+        "time": "6 min",
+        "description": "Doux, aqueux et IG nul. Riche en fibres douces. Baisse le taux d'insuline et de sucre dans le sang. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 feuille de blette",
+            "1/2 pamplemousse",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Épinards & Pomme Verte",
+        "time": "8 min",
+        "description": "Base très douce et riche en eau. Riche en fer et magnésium. IG bas, apporte la juste dose de douceur acidulée. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 grosse poignée d'épinards frais",
+            "1 pomme Granny Smith",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Chou Kale & Citron",
+        "time": "5 min",
+        "description": "Hydratant et très faible en sucre. Super-aliment bourré d'antioxydants. Alcalinisant et antioxydant majeur. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "2 belles feuilles de chou Kale",
+            "Le jus d'un demi-citron",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Persil & Pomme Verte",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Aide à la détoxification des reins. IG bas, apporte la juste dose de douceur acidulée. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 petit bouquet de persil",
+            "1 pomme Granny Smith",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Épinards & Kiwi",
+        "time": "5 min",
+        "description": "Naturellement isotonique. Riche en fer et magnésium. Riche en vitamine C et fibres douces. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 grosse poignée d'épinards frais",
+            "1 kiwi",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Chou Kale & Pomme Verte",
+        "time": "6 min",
+        "description": "Diurétique naturel et riche en minéraux. Super-aliment bourré d'antioxydants. IG bas, apporte la juste dose de douceur acidulée. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "2 belles feuilles de chou Kale",
+            "1 pomme Granny Smith",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Épinards & Kiwi",
+        "time": "5 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fer et magnésium. Riche en vitamine C et fibres douces. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 grosse poignée d'épinards frais",
+            "1 kiwi",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Persil & Kiwi",
+        "time": "8 min",
+        "description": "Diurétique naturel et riche en minéraux. Aide à la détoxification des reins. Riche en vitamine C et fibres douces. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 petit bouquet de persil",
+            "1 kiwi",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Chou Kale & Pomme Verte",
+        "time": "7 min",
+        "description": "Doux, aqueux et IG nul. Super-aliment bourré d'antioxydants. IG bas, apporte la juste dose de douceur acidulée. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "2 belles feuilles de chou Kale",
+            "1 pomme Granny Smith",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Épinards & Citron",
+        "time": "7 min",
+        "description": "Doux, aqueux et IG nul. Riche en fer et magnésium. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 grosse poignée d'épinards frais",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Chou Kale & Kiwi",
+        "time": "6 min",
+        "description": "Diurétique naturel et riche en minéraux. Super-aliment bourré d'antioxydants. Riche en vitamine C et fibres douces. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "2 belles feuilles de chou Kale",
+            "1 kiwi",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Chou Kale & Citron",
+        "time": "8 min",
+        "description": "Diurétique naturel et riche en minéraux. Super-aliment bourré d'antioxydants. Alcalinisant et antioxydant majeur. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "2 belles feuilles de chou Kale",
+            "Le jus d'un demi-citron",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Chou Kale & Fraises (Variante 200)",
+        "time": "6 min",
+        "description": "Doux, aqueux et IG nul. Super-aliment bourré d'antioxydants. Riches en antioxydants, IG très bas. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "2 belles feuilles de chou Kale",
+            "Une poignée de fraises",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Persil & Kiwi (Variante 399)",
+        "time": "5 min",
+        "description": "Hydratant et très faible en sucre. Aide à la détoxification des reins. Riche en vitamine C et fibres douces. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 petit bouquet de persil",
+            "1 kiwi",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Épinards & Pamplemousse (Variante 217)",
+        "time": "8 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fer et magnésium. Baisse le taux d'insuline et de sucre dans le sang. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 grosse poignée d'épinards frais",
+            "1/2 pamplemousse",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Blettes & Pomme Verte (Variante 979)",
+        "time": "7 min",
+        "description": "Hydratant et très faible en sucre. Riche en fibres douces. IG bas, apporte la juste dose de douceur acidulée. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 feuille de blette",
+            "1 pomme Granny Smith",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Cresson & Kiwi (Variante 805)",
+        "time": "7 min",
+        "description": "Diurétique naturel et riche en minéraux. Saveur poivrée et détoxifiant puissant. Riche en vitamine C et fibres douces. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 poignée de cresson",
+            "1 kiwi",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Épinards & Pomme Verte (Variante 542)",
+        "time": "7 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fer et magnésium. IG bas, apporte la juste dose de douceur acidulée. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 grosse poignée d'épinards frais",
+            "1 pomme Granny Smith",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Épinards & Citron (Variante 683)",
+        "time": "8 min",
+        "description": "Diurétique naturel et riche en minéraux. Riche en fer et magnésium. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 grosse poignée d'épinards frais",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Épinards & Kiwi (Variante 422)",
+        "time": "6 min",
+        "description": "Hydratant et très faible en sucre. Riche en fer et magnésium. Riche en vitamine C et fibres douces. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 grosse poignée d'épinards frais",
+            "1 kiwi",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Chou Kale & Fraises (Variante 473)",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Super-aliment bourré d'antioxydants. Riches en antioxydants, IG très bas. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "2 belles feuilles de chou Kale",
+            "Une poignée de fraises",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Blettes & Kiwi (Variante 683)",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Riche en fibres douces. Riche en vitamine C et fibres douces. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 feuille de blette",
+            "1 kiwi",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Épinards & Fraises (Variante 480)",
+        "time": "5 min",
+        "description": "Base très douce et riche en eau. Riche en fer et magnésium. Riches en antioxydants, IG très bas. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 grosse poignée d'épinards frais",
+            "Une poignée de fraises",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Épinards & Pamplemousse (Variante 179)",
+        "time": "7 min",
+        "description": "Base très douce et riche en eau. Riche en fer et magnésium. Baisse le taux d'insuline et de sucre dans le sang. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 grosse poignée d'épinards frais",
+            "1/2 pamplemousse",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pamplemousse) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Épinards & Citron (Variante 287)",
+        "time": "5 min",
+        "description": "Naturellement isotonique. Riche en fer et magnésium. Alcalinisant et antioxydant majeur. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 grosse poignée d'épinards frais",
+            "Le jus d'un demi-citron",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Chou Kale & Citron (Variante 903)",
+        "time": "6 min",
+        "description": "Base très douce et riche en eau. Super-aliment bourré d'antioxydants. Alcalinisant et antioxydant majeur. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "2 belles feuilles de chou Kale",
+            "Le jus d'un demi-citron",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Cresson & Fraises (Variante 795)",
+        "time": "5 min",
+        "description": "Diurétique naturel et riche en minéraux. Saveur poivrée et détoxifiant puissant. Riches en antioxydants, IG très bas. Anti-inflammatoire naturel extrêmement puissant. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 poignée de cresson",
+            "Une poignée de fraises",
+            "1 cm de racine de curcuma frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (curcuma). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Concombre, Blettes & Kiwi (Variante 260)",
+        "time": "6 min",
+        "description": "Hydratant et très faible en sucre. Riche en fibres douces. Riche en vitamine C et fibres douces. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1/2 concombre",
+            "1 feuille de blette",
+            "1 kiwi",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (concombre) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Laitue Romaine, Persil & Kiwi (Variante 680)",
+        "time": "8 min",
+        "description": "Base très douce et riche en eau. Aide à la détoxification des reins. Riche en vitamine C et fibres douces. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 cœur de laitue romaine",
+            "1 petit bouquet de persil",
+            "1 kiwi",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (laitue romaine) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Cresson & Pomme Verte (Variante 347)",
+        "time": "5 min",
+        "description": "Naturellement isotonique. Saveur poivrée et détoxifiant puissant. IG bas, apporte la juste dose de douceur acidulée. Rafraîchissant et aide à la digestion. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 poignée de cresson",
+            "1 pomme Granny Smith",
+            "5 feuilles de menthe fraîche"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (menthe). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Cresson & Kiwi (Variante 303)",
+        "time": "5 min",
+        "description": "Doux, aqueux et IG nul. Saveur poivrée et détoxifiant puissant. Riche en vitamine C et fibres douces. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 poignée de cresson",
+            "1 kiwi",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (cresson) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Blettes & Citron (Variante 575)",
+        "time": "7 min",
+        "description": "Naturellement isotonique. Riche en fibres douces. Alcalinisant et antioxydant majeur. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 feuille de blette",
+            "Le jus d'un demi-citron",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (blettes) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (citron) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Chou Kale & Fraises (Variante 455)",
+        "time": "6 min",
+        "description": "Naturellement isotonique. Super-aliment bourré d'antioxydants. Riches en antioxydants, IG très bas. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "2 belles feuilles de chou Kale",
+            "Une poignée de fraises",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (chou kale) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Épinards & Pomme Verte (Variante 214)",
+        "time": "6 min",
+        "description": "Doux, aqueux et IG nul. Riche en fer et magnésium. IG bas, apporte la juste dose de douceur acidulée. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 grosse poignée d'épinards frais",
+            "1 pomme Granny Smith",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Courgette, Épinards & Pomme Verte (Variante 662)",
+        "time": "7 min",
+        "description": "Doux, aqueux et IG nul. Riche en fer et magnésium. IG bas, apporte la juste dose de douceur acidulée. Adoucit et favorise le confort intestinal. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "1 petite courgette",
+            "1 grosse poignée d'épinards frais",
+            "1 pomme Granny Smith",
+            "1/4 de bulbe de fenouil"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (épinards) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (courgette) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (pomme verte) et terminez par le booster (fenouil). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Céleri, Persil & Kiwi (Variante 481)",
+        "time": "6 min",
+        "description": "Diurétique naturel et riche en minéraux. Aide à la détoxification des reins. Riche en vitamine C et fibres douces. Apporte des oméga-3 et épaissit le jus. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "2 branches de céleri",
+            "1 petit bouquet de persil",
+            "1 kiwi",
+            "1 c.à.c de graines de chia"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (céleri) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (kiwi) et terminez par le booster (graines de chia). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    },
+    {
+        "title": "Jus Détox Eau de Coco, Persil & Fraises (Variante 833)",
+        "time": "8 min",
+        "description": "Naturellement isotonique. Aide à la détoxification des reins. Riches en antioxydants, IG très bas. Stimule la digestion et l'immunité. Idéal pour une extraction lente.",
+        "ig": "Très Bas",
+        "tags": [
+            "Extracteur de Jus",
+            "Détox",
+            "Kenwood AT641"
+        ],
+        "ingredients": [
+            "150ml d'eau de coco pure",
+            "1 petit bouquet de persil",
+            "Une poignée de fraises",
+            "1 cm de racine de gingembre frais"
+        ],
+        "instructions": "Lavez soigneusement tous les ingrédients. Passez d'abord le feuillage (persil) dans l'extracteur Kenwood AT641, suivi de la base aqueuse (eau de coco) pour bien extraire le jus des feuilles. Ajoutez ensuite le fruit (fraises) et terminez par le booster (gingembre). Mélangez le jus obtenu et consommez-le idéalement dans les 15 minutes."
+    }
+]
 };

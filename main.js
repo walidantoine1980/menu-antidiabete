@@ -179,7 +179,8 @@ const mealCategories = [
   { key: 'lunch', label: 'Déjeuner' },
   { key: 'dinner', label: 'Dîner' },
   { key: 'dessert', label: 'Desserts' },
-  { key: 'drinks', label: 'Boissons Détox' }
+  { key: 'drinks', label: 'Boissons Détox' },
+  { key: 'kenwood', label: 'Jus Détox Kenwood AT641' }
 ];
 
 function renderRecipes(searchQuery = '') {

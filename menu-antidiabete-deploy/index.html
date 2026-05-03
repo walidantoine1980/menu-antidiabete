@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥑</text></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Menu Antidiabète | Repas à faible IG</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="manifest" href="./manifest.json" />
+    <meta name="theme-color" content="#10b981" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <span class="icon">🥑</span> Menu Antidiabète
+      </div>
+      <nav>
+        <ul>
+          <li><a href="#" data-target="theory" class="active">Théorie</a></li>
+          <li><a href="#" data-target="planner">Créer un Repas</a></li>
+          <li><a href="#" data-target="examples">Exemples Rapides</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <!-- Section Théorie -->
+      <section id="theory" class="active">
+        <div class="hero">
+          <h1>Maîtrisez votre glycémie</h1>
+          <p>La clé pour prévenir et contrôler le diabète ne réside pas dans la privation, mais dans le choix intelligent de vos aliments selon leur Indice Glycémique.</p>
+        </div>
+        <h2 style="text-align: center; margin-top: 2rem;">Les Bases de l'Alimentation Antidiabète</h2>
+        <div class="theory-grid" id="theory-container">
+          <!-- Injecté par JS -->
+        </div>
+      </section>
+
+      <!-- Section Planificateur -->
+      <section id="planner">
+        <div class="hero" style="padding: 2rem; background: linear-gradient(135deg, #0f172a, #334155);">
+          <h1>Planificateur de Repas</h1>
+          <p>Composez votre assiette idéale. Choisissez des aliments à IG très bas pour maintenir une glycémie stable.</p>
+        </div>
+        
+        <div class="planner-container">
+          <div class="food-selection">
+            <h2>Sélectionnez vos ingrédients</h2>
+            <div class="search-bar" style="margin-bottom: 1rem;">
+              <input type="text" id="food-search" placeholder="🔍 Rechercher un aliment..." style="width: 100%; padding: 0.75rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); font-size: 1rem;">
+            </div>
+            <div class="filters" style="margin-bottom: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+              <button class="tag" data-filter="all">Tous</button>
+              <button class="tag" data-filter="Légumes">Légumes</button>
+              <button class="tag" data-filter="Fruits">Fruits</button>
+              <button class="tag" data-filter="Protéines">Protéines</button>
+              <button class="tag" data-filter="Glucides lents">Glucides lents</button>
+              <button class="tag" data-filter="Graisses Saines">Graisses</button>
+              <button class="tag" data-filter="Laitages">Laitages</button>
+            </div>
+            <div class="food-grid" id="food-container">
+              <!-- Injecté par JS -->
+            </div>
+          </div>
+          
+          <div class="plate-summary">
+            <h3>Votre Assiette</h3>
+            <ul id="selected-foods-list">
+              <li style="color: var(--text-muted); justify-content: center; border: none;">Aucun aliment sélectionné</li>
+            </ul>
+            <div class="score-panel">
+              <p>Charge Glycémique Estimée</p>
+              <div class="score-value" id="cg-score">0</div>
+              <p id="cg-feedback" style="margin-top: 0.5rem; font-weight: 500; color: var(--primary);">Parfait !</p>
+            </div>
+            <button id="reset-plate" style="width: 100%; margin-top: 1rem; padding: 0.75rem; background: var(--border-color); border: none; border-radius: var(--radius-md); cursor: pointer; font-weight: 600;">Vider l'assiette</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section Exemples -->
+      <section id="examples">
+        <div class="hero" style="padding: 2rem; background: linear-gradient(135deg, #0369a1, #0c4a6e);">
+          <h1>Idées Repas Express</h1>
+          <p>Inspirées des meilleurs livres de cuisine antidiabète (< 30 minutes).</p>
+        </div>
+        <div class="search-bar" style="margin: 1rem 2rem;">
+          <input type="text" id="recipe-search" placeholder="🔍 Rechercher par titre ou ingrédient (ex: Saumon, Myrtilles)..." style="width: 100%; padding: 0.75rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); font-size: 1rem;">
+        </div>
+        <div class="meals-container" id="meals-container">
+          <!-- Injecté par JS -->
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="./main.js"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('./sw.js')
+            .then(reg => console.log('Service Worker enregistré avec succès.', reg))
+            .catch(err => console.error('Erreur d\'enregistrement du Service Worker.', err));
+        });
+      }
+    </script>
+  </body>
+</html>

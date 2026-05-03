@@ -179,8 +179,7 @@ const mealCategories = [
   { key: 'lunch', label: 'Déjeuner' },
   { key: 'dinner', label: 'Dîner' },
   { key: 'dessert', label: 'Desserts' },
-  { key: 'drinks', label: 'Boissons Détox' },
-  { key: 'kenwood', label: 'Jus Détox Kenwood AT641' }
+  { key: 'drinks', label: 'Boissons Détox' }
 ];
 
 function renderRecipes(searchQuery = '') {
@@ -259,4 +258,77 @@ renderRecipes();
 
 recipeSearchInput.addEventListener('input', (e) => {
   renderRecipes(e.target.value);
+});
+
+// --- Populate Detox Kenwood Section ---
+const detoxContainer = document.getElementById('detox-container');
+const detoxSearchInput = document.getElementById('detox-search');
+
+function renderDetox(searchQuery = '') {
+  detoxContainer.innerHTML = '';
+  const lowerQuery = searchQuery.toLowerCase();
+  
+  const grid = document.createElement('div');
+  grid.className = 'recipe-grid';
+  let recipeCount = 0;
+  
+  if (mealExamples['kenwood']) {
+    mealExamples['kenwood'].forEach(recipe => {
+      // Filter by search query
+      if (searchQuery) {
+        const textToSearch = (recipe.title + " " + (recipe.ingredients ? recipe.ingredients.join(' ') : '')).toLowerCase();
+        if (!textToSearch.includes(lowerQuery)) return;
+      }
+      
+      recipeCount++;
+      const card = document.createElement('div');
+      card.className = 'recipe-card';
+      
+      // Build ingredients list safely
+      const ingredientsHtml = recipe.ingredients 
+        ? `<ul class="recipe-ingredients">` + recipe.ingredients.map(ing => `<li>• ${ing}</li>`).join('') + `</ul>`
+        : '';
+        
+      // Build instructions safely
+      const instructionsHtml = recipe.instructions
+        ? `<p class="recipe-instructions"><strong>Préparation :</strong> ${recipe.instructions}</p>`
+        : '';
+
+      card.innerHTML = `
+        <div class="recipe-header">
+          <h3>${recipe.title}</h3>
+          <span class="recipe-time">⏱️ ${recipe.time}</span>
+        </div>
+        <p style="color: var(--text-muted); margin-bottom: 1rem;">${recipe.description}</p>
+        
+        <details class="recipe-details">
+          <summary>Voir la recette complète</summary>
+          <div class="details-content">
+            ${ingredientsHtml}
+            ${instructionsHtml}
+          </div>
+        </details>
+
+        <div style="font-weight: 500; font-size: 0.9rem; margin-top: 1rem;">
+          Impact Glycémique : <span style="color: var(--primary);">${recipe.ig}</span>
+        </div>
+        <div class="recipe-tags">
+          ${recipe.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+        </div>
+      `;
+      grid.appendChild(card);
+    });
+  }
+  
+  if (recipeCount > 0) {
+    detoxContainer.appendChild(grid);
+  } else {
+    detoxContainer.innerHTML = '<p style="padding: 2rem; text-align: center; color: var(--text-muted);">Aucune recette détox trouvée.</p>';
+  }
+}
+
+renderDetox();
+
+detoxSearchInput.addEventListener('input', (e) => {
+  renderDetox(e.target.value);
 });

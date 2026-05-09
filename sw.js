@@ -1,4 +1,4 @@
-const CACHE_NAME = 'antidiabete-v1';
+const CACHE_NAME = 'antidiabete-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -10,6 +10,7 @@ const ASSETS_TO_CACHE = [
 
 // Install event: cache assets
 self.addEventListener('install', (event) => {
+  self.skipWaiting(); // Force the waiting service worker to become the active service worker.
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then((cache) => {
@@ -18,13 +19,25 @@ self.addEventListener('install', (event) => {
   );
 });
 
-// Fetch event: serve from cache if offline
+// Activate event: clean up old caches
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches.keys().then((cacheNames) => {
+      return Promise.all(
+        cacheNames.map((cacheName) => {
+          if (cacheName !== CACHE_NAME) {
+            return caches.delete(cacheName);
+          }
+        })
+      );
+    }).then(() => self.clients.claim()) // Claim clients immediately
+  );
+});
+
+// Fetch event: network first, fallback to cache
 self.addEventListener('fetch', (event) => {
   event.respondWith(
-    caches.match(event.request)
-      .then((response) => {
-        // Return cached version or fetch from network
-        return response || fetch(event.request);
-      })
+    fetch(event.request)
+      .catch(() => caches.match(event.request))
   );
 });

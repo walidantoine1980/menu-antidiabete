@@ -1,13 +1,15 @@
 {
   "name": "menu-antidiabete",
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "description": "Application PWA de nutrition Antidiabète : Calculateur IG/CG, Planificateur d'Assiette, Semainier 7 jours, 154 Recettes Express & 166 Jus Détox Kenwood AT641",
+  "type": "module",
+  "main": "server.js",
   "scripts": {
-    "start": "serve -s ."
-  },
-  "dependencies": {
-    "serve": "^14.2.4"
+    "start": "node server.js",
+    "dev": "node server.js",
+    "generate": "python generate_all_data.py"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=18.0.0"
   }
 }

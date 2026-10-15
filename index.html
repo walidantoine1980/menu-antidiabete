@@ -3,120 +3,287 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥑</text></svg>" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>Menu Antidiabète | Repas à faible IG</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Menu Antidiabète | Planificateur IG/CG, Semainier & Recettes</title>
     <link rel="stylesheet" href="./style.css" />
     <link rel="manifest" href="./manifest.json" />
-    <meta name="theme-color" content="#10b981" />
+    <meta name="theme-color" content="#059669" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   </head>
   <body>
     <header>
-      <div class="logo">
-        <span class="icon">🥑</span> Menu Antidiabète
+      <div class="header-container">
+        <div class="logo">
+          <span class="icon">🥑</span>
+          <div>
+            <div class="logo-title">Menu Antidiabète</div>
+            <div class="logo-sub">Indice & Charge Glycémique Contrôlés</div>
+          </div>
+        </div>
+
+        <nav>
+          <ul>
+            <li><a href="#theory" data-target="theory" class="active">📚 Théorie & Calcul CG</a></li>
+            <li><a href="#planner" data-target="planner">🍽️ Composer l'Assiette</a></li>
+            <li><a href="#weekly" data-target="weekly">📅 Semainier 7 Jours</a></li>
+            <li><a href="#examples" data-target="examples">🍲 Recettes (154)</a></li>
+            <li><a href="#detox" data-target="detox" class="nav-detox">🍹 Détox Kenwood (166)</a></li>
+          </ul>
+        </nav>
+
+        <div class="header-tools no-print">
+          <button id="btn-open-shopping" class="tool-btn" title="Liste de courses">
+            🛒 Courses (<span id="shop-badge">0</span>)
+          </button>
+          <button id="btn-print-page" class="tool-btn" title="Imprimer / Exporter en PDF">
+            🖨️ PDF
+          </button>
+          <button id="btn-theme-toggle" class="tool-btn icon-only" title="Basculer Mode Clair / Sombre">
+            🌙
+          </button>
+        </div>
       </div>
-      <nav>
-        <ul>
-          <li><a href="#" data-target="theory" class="active">Théorie</a></li>
-          <li><a href="#" data-target="planner">Créer un Repas</a></li>
-          <li><a href="#" data-target="examples">Exemples Rapides</a></li>
-          <li><a href="#" data-target="detox" style="color: #10b981;">Détox Kenwood</a></li>
-        </ul>
-      </nav>
     </header>
 
     <main>
-      <!-- Section Théorie -->
+      <!-- Bannière Toast -->
+      <div id="app-toast" class="app-toast" style="display: none;"></div>
+
+      <!-- ================================================================ -->
+      <!-- SECTION 1 : THÉORIE & CALCULATEUR INTERACTIF IG / CG             -->
+      <!-- ================================================================ -->
       <section id="theory" class="active">
         <div class="hero">
-          <h1>Maîtrisez votre glycémie</h1>
-          <p>La clé pour prévenir et contrôler le diabète ne réside pas dans la privation, mais dans le choix intelligent de vos aliments selon leur Indice Glycémique.</p>
+          <span class="hero-pill">🩸 Prévention & Équilibre Métabolique</span>
+          <h1>Maîtrisez votre Glycémie sans Privation</h1>
+          <p>
+            Comprenez la différence entre Indice Glycémique (IG) et Charge Glycémique (CG), optimisez l'ordre de vos aliments et utilisez nos outils interactifs au quotidien.
+          </p>
         </div>
-        <h2 style="text-align: center; margin-top: 2rem;">Les Bases de l'Alimentation Antidiabète</h2>
+
+        <!-- Calculateur Interactif de Charge Glycémique -->
+        <div class="cg-calculator-card">
+          <div class="calc-header">
+            <h2>🧮 Calculateur Express de Charge Glycémique (CG)</h2>
+            <p>Vérifiez instantanément l'impact glycémique réel de n'importe quel aliment ou produit à partir de son étiquette nutritionnelle.</p>
+          </div>
+          <div class="calc-grid">
+            <div class="calc-field">
+              <label for="calc-ig">Indice Glycémique (IG de 0 à 100)</label>
+              <input type="number" id="calc-ig" min="0" max="110" value="35" />
+            </div>
+            <div class="calc-field">
+              <label for="calc-carbs100">Glucides nets pour 100g (en g)</label>
+              <input type="number" id="calc-carbs100" min="0" max="100" step="0.5" value="20" />
+            </div>
+            <div class="calc-field">
+              <label for="calc-portion">Portion consommée (en g)</label>
+              <input type="number" id="calc-portion" min="5" max="1000" step="5" value="120" />
+            </div>
+            <div class="calc-result-box">
+              <span class="calc-res-label">Charge Glycémique de la portion</span>
+              <div class="calc-res-value" id="calc-cg-output">8.4</div>
+              <span class="calc-res-verdict" id="calc-cg-verdict">💚 Charge Basse (≤ 10) — Idéal</span>
+            </div>
+          </div>
+        </div>
+
+        <h2 class="section-subtitle">Les 6 Piliers Scientifiques de l'Alimentation Antidiabète</h2>
         <div class="theory-grid" id="theory-container">
-          <!-- Injecté par JS -->
+          <!-- Injecté par main.js -->
         </div>
       </section>
 
-      <!-- Section Planificateur -->
+      <!-- ================================================================ -->
+      <!-- SECTION 2 : PLANIFICATEUR D'ASSIETTE INTELLIGENT                 -->
+      <!-- ================================================================ -->
       <section id="planner">
-        <div class="hero" style="padding: 2rem; background: linear-gradient(135deg, #0f172a, #334155);">
-          <h1>Planificateur de Repas</h1>
-          <p>Composez votre assiette idéale. Choisissez des aliments à IG très bas pour maintenir une glycémie stable.</p>
+        <div class="hero hero-planner">
+          <span class="hero-pill">🍽️ Simulateur Glycémique & Macros</span>
+          <h1>Composez votre Assiette Idéale</h1>
+          <p>Sélectionnez vos aliments, ajustez les portions et vérifiez en direct la Charge Glycémique, les fibres et l'équilibre de votre repas.</p>
         </div>
-        
+
         <div class="planner-container">
           <div class="food-selection">
-            <h2>Sélectionnez vos ingrédients</h2>
-            <div class="search-bar" style="margin-bottom: 1rem;">
-              <input type="text" id="food-search" placeholder="🔍 Rechercher un aliment..." style="width: 100%; padding: 0.75rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); font-size: 1rem;">
+            <div class="planner-controls-top">
+              <div class="search-bar">
+                <input type="text" id="food-search" placeholder="🔍 Rechercher un aliment ou une marque (ex: Brocoli, Quinoa, Picard, Biocoop)..." />
+              </div>
+              <select id="food-sort" class="select-control">
+                <option value="default">Trier : Par catégorie</option>
+                <option value="ig-asc">Trier : IG le plus bas</option>
+                <option value="cg-asc">Trier : CG la plus basse</option>
+                <option value="protein-desc">Trier : + Riche en protéines</option>
+              </select>
             </div>
-            <div class="filters" style="margin-bottom: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
-              <button class="tag" data-filter="all">Tous</button>
-              <button class="tag" data-filter="Légumes">Légumes</button>
-              <button class="tag" data-filter="Fruits">Fruits</button>
-              <button class="tag" data-filter="Protéines">Protéines</button>
-              <button class="tag" data-filter="Glucides lents">Glucides lents</button>
-              <button class="tag" data-filter="Graisses Saines">Graisses</button>
-              <button class="tag" data-filter="Laitages">Laitages</button>
+
+            <div class="filters" id="food-filters">
+              <button class="tag active" data-filter="all">Tous (59)</button>
+              <button class="tag" data-filter="Légumes">🥦 Légumes</button>
+              <button class="tag" data-filter="Fruits">🫐 Fruits</button>
+              <button class="tag" data-filter="Protéines">🐟 Protéines</button>
+              <button class="tag" data-filter="Glucides lents">🌾 Glucides lents</button>
+              <button class="tag" data-filter="Graisses Saines">🥑 Graisses Saines</button>
+              <button class="tag" data-filter="Laitages">🥛 Laitages</button>
             </div>
+
             <div class="food-grid" id="food-container">
-              <!-- Injecté par JS -->
+              <!-- Injecté par main.js -->
             </div>
           </div>
-          
-          <div class="plate-summary">
-            <h3>Votre Assiette</h3>
+
+          <aside class="plate-summary">
+            <h3>🍽️ Votre Assiette</h3>
             <ul id="selected-foods-list">
-              <li style="color: var(--text-muted); justify-content: center; border: none;">Aucun aliment sélectionné</li>
+              <li class="empty-plate-msg">Cliquez sur des aliments à gauche pour composer votre repas.</li>
             </ul>
+
             <div class="score-panel">
-              <p>Charge Glycémique Estimée</p>
-              <div class="score-value" id="cg-score">0</div>
-              <p id="cg-feedback" style="margin-top: 0.5rem; font-weight: 500; color: var(--primary);">Parfait !</p>
+              <p class="score-title">Charge Glycémique Totale (CG)</p>
+              <div class="score-value" id="cg-score">0.0</div>
+              <p id="cg-feedback" class="score-feedback">Commencez à ajouter des aliments.</p>
+              <div class="plate-macros-grid">
+                <div class="macro-box">
+                  <span id="plate-ig-avg" class="macro-val">0</span>
+                  <span class="macro-lbl">IG Moyen</span>
+                </div>
+                <div class="macro-box">
+                  <span id="plate-kcal" class="macro-val">0</span>
+                  <span class="macro-lbl">kcal</span>
+                </div>
+                <div class="macro-box">
+                  <span id="plate-carbs" class="macro-val">0g</span>
+                  <span class="macro-lbl">Glucides</span>
+                </div>
+                <div class="macro-box">
+                  <span id="plate-fiber" class="macro-val">0g</span>
+                  <span class="macro-lbl">Fibres</span>
+                </div>
+                <div class="macro-box">
+                  <span id="plate-protein" class="macro-val">0g</span>
+                  <span class="macro-lbl">Protéines</span>
+                </div>
+              </div>
             </div>
-            <button id="reset-plate" style="width: 100%; margin-top: 1rem; padding: 0.75rem; background: var(--border-color); border: none; border-radius: var(--radius-md); cursor: pointer; font-weight: 600;">Vider l'assiette</button>
+
+            <div id="plate-harmony-box" class="harmony-box">
+              💡 <strong>Règle de l'Assiette :</strong> Associez au moins 1 légume riche en fibres et 1 source de protéines/bonnes graisses.
+            </div>
+
+            <div class="plate-actions">
+              <button id="plate-to-shopping" class="btn-primary">🛒 Ajouter aux courses</button>
+              <button id="reset-plate" class="btn-secondary">🗑️ Vider l'assiette</button>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <!-- ================================================================ -->
+      <!-- SECTION 3 : SEMAINIER 7 JOURS AUTOMATIQUE                        -->
+      <!-- ================================================================ -->
+      <section id="weekly">
+        <div class="hero hero-weekly">
+          <span class="hero-pill">📅 Planification Automatisée</span>
+          <h1>Semainier Antidiabète sur 7 Jours</h1>
+          <p>Un menu complet (Petit-déjeuner, Déjeuner, Jus Détox & Dîner) à Charge Glycémique maîtrisée. Régénérez un repas ou exportez toute la liste de courses en un clic.</p>
+          <div class="weekly-actions no-print">
+            <button id="btn-generate-week" class="btn-hero-action">🎲 Générer un Nouveau Menu 7 Jours</button>
+            <button id="btn-week-shopping" class="btn-hero-secondary">🛒 Ajouter toute la semaine aux courses</button>
           </div>
         </div>
+
+        <div class="weekly-grid" id="weekly-container">
+          <!-- Injecté par main.js -->
+        </div>
       </section>
 
-      <!-- Section Exemples -->
+      <!-- ================================================================ -->
+      <!-- SECTION 4 : RECETTES & IDÉES REPAS EXPRESS                       -->
+      <!-- ================================================================ -->
       <section id="examples">
-        <div class="hero" style="padding: 2rem; background: linear-gradient(135deg, #0369a1, #0c4a6e);">
-          <h1>Idées Repas Express</h1>
-          <p>Inspirées des meilleurs livres de cuisine antidiabète (< 30 minutes).</p>
+        <div class="hero hero-recipes">
+          <span class="hero-pill">🍲 Cuisine IG Bas & Express</span>
+          <h1>154 Recettes Équilibrées (< 25 min)</h1>
+          <p>Petits-déjeuners salés & sucrés, déjeuners complets, dîners métaboliques, desserts sans pic glycémique et boissons fonctionnelles.</p>
         </div>
-        <div class="search-bar" style="margin: 1rem 2rem;">
-          <input type="text" id="recipe-search" placeholder="🔍 Rechercher par titre ou ingrédient (ex: Saumon, Myrtilles)..." style="width: 100%; padding: 0.75rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); font-size: 1rem;">
+
+        <div class="section-toolbar no-print">
+          <div class="search-bar flex-1">
+            <input type="text" id="recipe-search" placeholder="🔍 Rechercher par titre, ingrédient ou tag (ex: Saumon, Quinoa, Chocolat, Sans Féculents)..." />
+          </div>
+          <div class="filters" id="recipe-cat-filters">
+            <button class="tag active" data-rcat="all">Toutes (154)</button>
+            <button class="tag" data-rcat="breakfast">🌅 Petit-Déj</button>
+            <button class="tag" data-rcat="lunch">☀️ Déjeuner</button>
+            <button class="tag" data-rcat="dinner">🌙 Dîner</button>
+            <button class="tag" data-rcat="dessert">🍫 Desserts IG Bas</button>
+            <button class="tag" data-rcat="drinks">🍵 Boissons</button>
+            <button class="tag" data-rcat="favorites">❤️ Favoris</button>
+          </div>
         </div>
+
         <div class="meals-container" id="meals-container">
-          <!-- Injecté par JS -->
+          <!-- Injecté par main.js -->
         </div>
       </section>
 
-      <!-- Section Detox Kenwood -->
+      <!-- ================================================================ -->
+      <!-- SECTION 5 : CURE DÉTOX KENWOOD AT641                             -->
+      <!-- ================================================================ -->
       <section id="detox">
-        <div class="hero" style="padding: 2rem; background: linear-gradient(135deg, #059669, #047857);">
-          <h1>Cure Détox Kenwood AT641</h1>
-          <p>150 Recettes d'extracteur de jus à IG très bas, spécialement formulées pour l'extracteur Kenwood AT641.</p>
+        <div class="hero hero-detox">
+          <span class="hero-pill">🍹 Centrifugeuse Kenwood AT641 · Vitesse 1 & 2</span>
+          <h1>166 Jus & Shots Détox à IG Contrôlé</h1>
+          <p>Recettes exclusives calibrées pour la Kenwood AT641 avec Indice Glycémique, vitamines, bienfaits et protocole exact de vitesse.</p>
         </div>
-        <div class="search-bar" style="margin: 1rem 2rem;">
-          <input type="text" id="detox-search" placeholder="🔍 Rechercher un ingrédient détox (ex: Gingembre, Épinards)..." style="width: 100%; padding: 0.75rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); font-size: 1rem;">
+
+        <div class="section-toolbar no-print">
+          <div class="search-bar flex-1">
+            <input type="text" id="detox-search" placeholder="🔍 Rechercher un ingrédient, une vitamine (ex: Vitamine C, Curcumine, Gingembre, Épinards)..." />
+          </div>
+          <div class="filters" id="detox-cat-filters">
+            <button class="tag active" data-dcat="all">Tous (166)</button>
+            <button class="tag" data-dcat="signature">⭐ Signatures</button>
+            <button class="tag" data-dcat="shots">⚡ Shots Express</button>
+            <button class="tag" data-dcat="glycemie">🩸 Glycémie IG≤15</button>
+            <button class="tag" data-dcat="green">🥬 Green Détox</button>
+            <button class="tag" data-dcat="vitality">🧡 Vitalité</button>
+          </div>
         </div>
+
         <div class="meals-container" id="detox-container">
-          <!-- Injecté par JS -->
+          <!-- Injecté par main.js -->
         </div>
       </section>
     </main>
+
+    <footer class="app-footer">
+      <p>Menu Antidiabète v2.0 — Planificateur IG/CG, Semainier & Bar Détox Kenwood AT641 | Créé pour Antoine</p>
+    </footer>
+
+    <!-- Modal Liste de Courses -->
+    <div id="shopping-modal" class="modal-overlay">
+      <div class="modal-card">
+        <div class="modal-header">
+          <h2>🛒 Ma Liste de Courses Antidiabète</h2>
+          <button id="close-shopping-modal" class="modal-close">&times;</button>
+        </div>
+        <p class="modal-desc">Cochez vos achats en magasin ou copiez l'intégralité de la liste.</p>
+        <div id="shopping-list-box" class="shopping-list-box"></div>
+        <div class="modal-footer">
+          <button id="btn-copy-shop" class="btn-primary">📋 Copier la liste</button>
+          <button id="btn-clear-shop" class="btn-secondary">🗑️ Vider la liste</button>
+        </div>
+      </div>
+    </div>
 
     <script type="module" src="./main.js"></script>
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('./sw.js')
-            .then(reg => console.log('Service Worker enregistré avec succès.', reg))
-            .catch(err => console.error('Erreur d\'enregistrement du Service Worker.', err));
+          navigator.serviceWorker.register('./sw.js').catch(() => {});
         });
       }
     </script>

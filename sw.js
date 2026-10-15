@@ -1,4 +1,4 @@
-const CACHE_NAME = 'antidiabete-v2';
+const CACHE_NAME = 'antidiabete-v3';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -8,36 +8,36 @@ const ASSETS_TO_CACHE = [
   './manifest.json'
 ];
 
-// Install event: cache assets
 self.addEventListener('install', (event) => {
-  self.skipWaiting(); // Force the waiting service worker to become the active service worker.
+  self.skipWaiting();
   event.waitUntil(
-    caches.open(CACHE_NAME)
-      .then((cache) => {
-        return cache.addAll(ASSETS_TO_CACHE);
-      })
+    caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS_TO_CACHE))
   );
 });
 
-// Activate event: clean up old caches
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then((cacheNames) => {
-      return Promise.all(
+    caches.keys().then((cacheNames) =>
+      Promise.all(
         cacheNames.map((cacheName) => {
           if (cacheName !== CACHE_NAME) {
             return caches.delete(cacheName);
           }
         })
-      );
-    }).then(() => self.clients.claim()) // Claim clients immediately
+      )
+    ).then(() => self.clients.claim())
   );
 });
 
-// Fetch event: network first, fallback to cache
 self.addEventListener('fetch', (event) => {
+  if (event.request.method !== 'GET') return;
   event.respondWith(
     fetch(event.request)
+      .then((response) => {
+        const clone = response.clone();
+        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
+        return response;
+      })
       .catch(() => caches.match(event.request))
   );
 });
